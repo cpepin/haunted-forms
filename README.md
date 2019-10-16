@@ -6,6 +6,8 @@ A lightweight form library for haunted-js
 
 `npm install @cpepin/haunted-forms`
 
+Examples below show components build with [haunted](https://github.com/matthewp/haunted) and [lit-html](https://github.com/Polymer/lit-html) for templating.
+
 ### IE11
 
 This library requires the polyfills outlined in [here](https://github.com/matthewp/haunted#use), as well as a CustomEvent polyfill which you can find [here](https://github.com/kumarharsh/custom-event-polyfill#readme).
