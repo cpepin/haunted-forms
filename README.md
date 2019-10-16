@@ -1,5 +1,7 @@
 # haunted-forms 👻
 
+[![npm version](https://badge.fury.io/js/%40cpepin%2Fhaunted-forms.svg)](https://badge.fury.io/js/%40cpepin%2Fhaunted-forms)
+
 A lightweight form library for haunted-js
 
 ## Installation
