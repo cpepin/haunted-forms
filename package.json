@@ -1,5 +1,5 @@
 {
-  "name": "haunted-forms",
+  "name": "@cpepin/haunted-forms",
   "version": "0.0.1",
   "description": "A lightweight form library for haunted-js",
   "main": "bundle.umd.js",
